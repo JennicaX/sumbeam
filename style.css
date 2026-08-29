@@ -3,11 +3,12 @@ body {
   padding: 2rem 1.5rem;
   font-family: system-ui, monospace;
   color: #2e5c63;
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzbwONuKVS9983oRdJzkU3c9oDamLXJJLs1Kw127btMw&s=10);
-  background-repeat: repeat-x;
-  height:100%;
+  background-image: url(istockphoto-1485471850-612x612.jpg);
+  background-repeat: repeat-x; 
+  background-size: cover;
 }
 
+.image
  
 /* by tag: every h2 on the page */
 h2 {
